@@ -178,7 +178,7 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 
 
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=transparent&hide_border=true" />
