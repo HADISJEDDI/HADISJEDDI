@@ -20,32 +20,23 @@ I'm a developer who enjoys turning ideas into real projects.
 - 💻 Full Stack Developer
 - 🚀 Building and learning every day
 - 🧠 Interested in Web Development & Software Engineering
-- 🗄️ Working with databases and backend technologies
-- 🎯 Always learning something new
-
----
-
+- ⚙️ Working with backend technologies and databases
+- 🗄️ Experienced with C#, .NET, SQL Server & Entity Framework
+- 🌱 Currently improving my development skills
+- 🎯 Focused on becoming a better developer every day
+- 🔥 Turning problems into solutions with code
+- 💡 Always curious to learn new technologies
+- 🖤 Code. Learn. Build. Repeat.
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,github,visualstudio" />
 
 </div>
 
 ---
 
-## 🚀 Featured Project
-
-### 🛒 Online Shop
-
-A full-stack e-commerce project focused on household appliances.
-
-**Technologies:**
-
-`C#` `ASP.NET MVC` `Entity Framework` `SQL Server`
-
----
 
 ## 🌐 Connect With Me
 
@@ -74,6 +65,6 @@ while (alive)
     repeat();
 }
 
-### 🖤 Thanks for visiting my profile!
+ 🖤 Thanks for visiting my profile!
 
 
