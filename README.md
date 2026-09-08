@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm HADIS JEDDI
+# 👋 Hey, I'm HADIS 
 
 ### 💻 Full Stack Developer
 
@@ -51,11 +51,8 @@ I'm a developer who enjoys turning ideas into real, working projects.
 
 </div>
 
----
 
-<div align="center">
 
-```text
 while (alive)
 {
     learn();
@@ -64,11 +61,4 @@ while (alive)
     repeat();
 }
 
- <div align="center">
-
-### 🖤 Thanks for visiting my profile!
-
-
-</div>
-
-
+🖤 Thanks for visiting my profile!
