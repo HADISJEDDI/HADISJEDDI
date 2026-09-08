@@ -103,10 +103,9 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-6B7280?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ASP.NET%20Identity-6B7280?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20Identity-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-6B7280?style=for-the-badge&logo=dotnet&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-2E7D32?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
