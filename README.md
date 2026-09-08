@@ -52,6 +52,25 @@ I'm a developer who enjoys turning ideas into real, working projects.
 
 </p>
 
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=dark&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADISJEDDI&layout=compact&theme=dark&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=HADISJEDDI&theme=dark&hide_border=true" />
+
+</div>
+
+
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HADISJEDDI)
