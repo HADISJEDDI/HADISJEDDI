@@ -7,7 +7,6 @@
 
 `Code` • `Build` • `Debug` • `Repeat`
 
-<img src="https://komarev.com/ghpvc/?username=HADISJEDDI&label=PROFILE+VIEWS&color=111111&style=for-the-badge" />
 
 </div>
 
@@ -15,18 +14,18 @@
 
 ## 🖤 About Me
 
-I'm a developer who enjoys turning ideas into real projects.
+I'm a developer who enjoys turning ideas into real, working projects.
 
-- 💻 Full Stack Developer
-- 🚀 Building and learning every day
-- 🧠 Interested in Web Development & Software Engineering
-- ⚙️ Working with backend technologies and databases
-- 🗄️ Experienced with C#, .NET, SQL Server & Entity Framework
-- 🌱 Currently improving my development skills
-- 🎯 Focused on becoming a better developer every day
-- 🔥 Turning problems into solutions with code
-- 💡 Always curious to learn new technologies
-- 🖤 Code. Learn. Build. Repeat.
+- 💻 Full Stack Developer focused on building practical web applications
+- ⚙️ Working with C#, .NET, ASP.NET MVC, and SQL Server
+- 🧠 Interested in backend development, databases, and software engineering
+- 🚀 I learn by building, experimenting, and solving real problems
+- 🔍 I enjoy understanding how things work behind the scenes
+- 🌱 Constantly improving my skills and exploring new technologies
+- 🛠️ Turning challenges into projects and ideas into code
+- 🎯 Working toward becoming a stronger and more versatile developer
+
+>
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -65,6 +64,11 @@ while (alive)
     repeat();
 }
 
- 🖤 Thanks for visiting my profile!
+ <div align="center">
+
+### 🖤 Thanks for visiting my profile!
+
+
+</div>
 
 
