@@ -42,6 +42,8 @@ I'm a developer who enjoys turning ideas into real, working projects.
 
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HJDAT_8)
 
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HADIS8JEDDI@gmail.com)
+
 ---
 
 ```csharp
