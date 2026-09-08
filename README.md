@@ -58,15 +58,11 @@ I'm a developer who enjoys turning ideas into real, working projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADISJEDDI&layout=compact&theme=dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=HADISJEDDI&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADISJEDDI&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 
 </div>
 
