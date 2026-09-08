@@ -158,7 +158,7 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 
 
 
-[## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
