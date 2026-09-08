@@ -1,8 +1,7 @@
-## Hi there 👋
 
 <div align="center">
 
-# 👋 Hey, I'm HADIS
+# 👋 Hey, I'm HADIS JEDDI
 
 ### 💻 Full Stack Developer
 
@@ -30,7 +29,7 @@ I'm a developer who enjoys turning ideas into real projects.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,visualstudio" />
 
 </div>
 
