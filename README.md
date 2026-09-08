@@ -34,25 +34,17 @@ I'm a developer who enjoys turning ideas into real, working projects.
 
 </div>
 
----
-
+------
 
 ## 🌐 Connect With Me
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HADISJEDDI)
 
-<a href="https://github.com/HADISJEDDI">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HJDAT_8)
 
-<a href="https://www.instagram.com/HJDAT_8/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+---
 
-</div>
-
-
-
+```csharp
 while (alive)
 {
     learn();
@@ -60,5 +52,6 @@ while (alive)
     debug();
     repeat();
 }
+```
 
-🖤 Thanks for visiting my profile!
+### 🖤 Thanks for visiting my profile!
