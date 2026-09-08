@@ -10,22 +10,69 @@
 
 </div>
 
+--## 🖤 About Me
+
+Hey! I'm HADIS — a developer who enjoys turning ideas into real,
+working applications and learning how things work behind the code.
+
+💻 **What I do**
+I focus on Full Stack Development and enjoy building practical
+web applications from the frontend to the backend.
+
+⚙️ **What I work with**
+My main technologies include C#, .NET, ASP.NET MVC, SQL Server,
+HTML5, CSS3, and Bootstrap.
+
+🧠 **What interests me**
+I'm interested in backend development, databases, software
+architecture, problem solving, and understanding what happens
+behind the scenes of an application.
+
+🚀 **How I learn**
+I learn best by building real projects. I like taking an idea,
+turning it into code, running into problems, debugging them,
+and figuring out why something doesn't work.
+
+🔍 **My approach**
+I don't want to just memorize code.
+I want to understand it.
+
+I try to understand:
+- How things work
+- Why they work
+- Why they sometimes don't work
+- How to make them better
+
+🛠️ **What I enjoy**
+- Building projects from scratch
+- Solving programming problems
+- Working with databases
+- Debugging and fixing errors
+- Exploring new technologies
+- Improving existing code
+- Turning ideas into working applications
+
+📚 **Currently growing in**
+I'm continuously improving my skills in C#, .NET, ASP.NET MVC,
+Entity Framework, SQL Server, web development, and software
+engineering concepts.
+
+🌱 **My mindset**
+Every bug is something to understand.
+Every project is something to learn from.
+Every mistake is part of getting better.
+
+🎯 **My goal**
+My goal is to become a strong and versatile Full Stack Developer,
+build meaningful real-world projects, and keep improving my
+skills one project at a time.
+
 ---
 
-## 🖤 About Me
+### ⚡ Developer Mindset
 
-I'm a developer who enjoys turning ideas into real, working projects.
-
-- 💻 Full Stack Developer focused on building practical web applications
-- ⚙️ Working with C#, .NET, ASP.NET MVC, and SQL Server
-- 🧠 Interested in backend development, databases, and software engineering
-- 🚀 I learn by building, experimenting, and solving real problems
-- 🔍 I enjoy understanding how things work behind the scenes
-- 🌱 Constantly improving my skills and exploring new technologies
-- 🛠️ Turning challenges into projects and ideas into code
-- 🎯 Working toward becoming a stronger and more versatile developer
-
->
+```text
+Learn → Build → Break → Debug → Understand → Improve → Repeat
 ## 💻 Tech Stack:
 
 <p align="left">
@@ -58,11 +105,7 @@ I'm a developer who enjoys turning ideas into real, working projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADISJEDDI&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=github_dark&hide_border=true)
 
 </div>
 
