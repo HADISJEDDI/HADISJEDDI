@@ -149,14 +149,7 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 - 🌱 Keep improving every day
 - 🔥 Turn more ideas into real applications
 
----
-
-## 📊 GitHub Stats
-
-
-
-
-
+--
 
 
 
@@ -181,6 +174,15 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+</p>
+
+
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADISJEDDI&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
