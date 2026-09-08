@@ -156,13 +156,15 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HADISJEDDI)
+## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HJDAT_8)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HADISJEDDI)
 
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HJDAT_8)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HJDAT_8)
 
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HADIS8JEDDI@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hjdat_8)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadis8jeddi@gmail.com)
 
 ---
 
