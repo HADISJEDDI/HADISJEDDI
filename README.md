@@ -148,17 +148,9 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HADISJEDDI&show_icons=true&theme=dark&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADISJEDDI&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
+-
 
 ## 🌐 Connect With Me
 
