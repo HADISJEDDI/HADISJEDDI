@@ -126,11 +126,7 @@ Learn → Build → Break → Debug → Understand → Improve → Repeat
 <img src="https://img.shields.io/badge/SEO-111111?style=for-the-badge&logo=google&logoColor=white" />
 
 
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-00ADD8?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-00ADD8?style=for-the-badge&logo=dotnet&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge&logo=dotnet&logoColor=white) ![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
 
 </p>
 
